@@ -1,6 +1,5 @@
-
 <p align="center">
-    <h3 align="center">Simple React Webpack Babel Starter Kit<br></h3>
+    <h3 align="center">Project RedCarpet<br></h3>
 </p>
 
 [![CircleCI](https://circleci.com/gh/ReactJSResources/react-webpack-babel/tree/master.svg?style=svg)](https://circleci.com/gh/ReactJSResources/react-webpack-babel/tree/master)
@@ -34,7 +33,7 @@ Tired of complicated starters with 200MB of dependencies which are hard to under
 * Fork and clone the project:
 
 ```
-git clone https://github.com/ReactJSResources/react-webpack-babel.git
+git clone https://github.com/srushti3/project-task.git
 ```
 
 * Then install the dependencies:
